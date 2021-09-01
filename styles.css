@@ -56,3 +56,11 @@ span{
     position: absolute;
     left: 10em
 }
+
+.original{
+    color: pink;
+}
+
+.additional{
+    color:skyblue;
+}
