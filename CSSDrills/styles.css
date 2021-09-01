@@ -1,0 +1,52 @@
+body {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:red;    
+}
+
+a:hover{
+    font-weight:bold;
+    color:green;
+    cursor: pointer;
+}
+
+span{
+    color:seagreen;
+    font-weight:900;
+}
+
+.boxes{
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid blue;
+    border-radius: 4rem; 
+    width: 30em;
+    display: block;
+}
+
+#box1{
+    background-color: skyblue;
+}
+
+#box2{
+    background-color: yellow;
+    position: relative;
+    left: 35em;
+    bottom:13.5em;
+}
+
+#box3{
+    background-color: thistle;
+}
+
+#box4{
+    background-color: olivedrab;
+}
