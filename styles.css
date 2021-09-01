@@ -64,3 +64,39 @@ span{
 .additional{
     color:skyblue;
 }
+
+#show1{
+    Color:gold
+}
+
+#show2{
+    color:tomato
+}
+
+#show3{
+    color:brown
+}
+
+#show4{
+    color:crimson
+}
+
+#show5{
+    color:darkgreen
+}
+
+li{
+    color:purple
+}
+
+.star{
+    color:salmon
+}
+
+#wars{
+    color:seagreen
+}
+
+.list{
+    border: 2px solid black
+}
