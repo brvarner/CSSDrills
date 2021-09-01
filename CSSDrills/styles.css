@@ -38,9 +38,6 @@ span{
 
 #box2{
     background-color: yellow;
-    position: relative;
-    left: 35em;
-    bottom:13.5em;
 }
 
 #box3{
@@ -49,4 +46,13 @@ span{
 
 #box4{
     background-color: olivedrab;
+}
+
+.images{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: red;
+    position: absolute;
+    left: 10em
 }
