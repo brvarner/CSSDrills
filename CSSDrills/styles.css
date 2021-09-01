@@ -84,3 +84,19 @@ span{
 #show5{
     color:darkgreen
 }
+
+li{
+    color:purple
+}
+
+.star{
+    color:salmon
+}
+
+#wars{
+    color:seagreen
+}
+
+.list{
+    border: 2px solid black
+}
